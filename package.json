@@ -1,0 +1,24 @@
+{
+  "name": "jira-trello-sync",
+  "version": "0.1.0",
+  "description": "Module for hubot for syncing cards between jira and trello",
+  "main": "index.js.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fusionspim/jira-trello-sync.git"
+  },
+  "keywords": [
+    "jira",
+    "trello",
+    "hubot"
+  ],
+  "author": "Gabriel Baker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fusionspim/jira-trello-sync/issues"
+  },
+  "homepage": "https://github.com/fusionspim/jira-trello-sync#readme"
+}
